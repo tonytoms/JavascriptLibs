@@ -1,0 +1,70 @@
+  .skillTable{
+    height: 60%;
+    position: absolute;
+    width: 90%;
+  }
+  .skillData{
+    height: 20%;
+    text-align: center;
+    align-content: center;
+    display: grid;
+    color: #bfa8a8;
+    border-radius: 23px;
+    font-size: 21px;
+    opacity: 0.2;
+
+    
+
+
+  }
+  .skillDataSelected{
+    border-radius: 11%;
+    border-top: 1px solid #686868;
+    border-bottom: 1px solid #686868;
+    opacity: 1;
+  }
+  .skillUpArrow{
+    height: 20%;
+    border-radius: 18px;
+    border-left: 1px solid #363642;
+    border-right: 1px solid #363642;
+    background: url('assets/up.png') no-repeat;
+    background-position: 50% 50%;
+    position: relative;
+    z-index: 4;
+    cursor: pointer;
+
+
+  }
+  .skillDownArrow{
+    height: 20%;
+    border-radius: 18px;
+    border-left: 1px solid #363642;
+    border-right: 1px solid #363642;
+    background: url('assets/down.png') no-repeat;
+    background-position: 50% 50%;
+    position: relative;
+    z-index: 4;
+    cursor: pointer;
+
+
+  }
+    .skillDetailsContent{
+    width: 100%;
+    padding: 5%;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #516072;
+    border-radius: 41px;
+  }
+  .skillDataContainer{
+    position: relative;
+    height: 60%;
+    overflow: hidden;
+}
+  .skillDataContainerScroller{
+    height: 100%;
+    position: relative;
+    top: 0%;
+  }
+
