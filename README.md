@@ -34,4 +34,5 @@ Link: https://jsfiddle.net/tonytoms01/vLhuwo54/
 here credits. Project inspired by..., based on...
 
 # Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Tony Toms](https://www.itstonytoms.com/) - feel free to contact me!
+Visit: https://www.itstonytoms.com/
