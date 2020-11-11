@@ -3,12 +3,11 @@
 
 ## Table of contents
 * [1. Simple JS Swipper](#simple-js-swipper)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
+  * [Info](#info)
+  * [Screenshots](#screenshots)
+  * [Technologies](#technologies)
+  * [Setup](#setup)
+  * [Code Examples](#code_examples)
 * [Contact](#contact)
 
 ## 1. Simple JS Swipper
