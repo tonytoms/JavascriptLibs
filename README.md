@@ -11,23 +11,23 @@
 * [Contact](#contact)
 
 ## 1. Simple JS Swipper
-### Info
-This is a simple js Swipper
+ ### Info
+ This is a simple js Swipper
 
-### Screenshots
+ ### Screenshots
 ![Example screenshot](./SimpleJSUpDownSelectorScroller/assets/screenshot.png)
 
-### Technologies
+ ### Technologies
 * HTML 
 * CSS
 * Javascript - ES5
 
-### Setup
+ ### Setup
 If you want to try it by yourself, Just pull this repo 
 from `https://github.com/tonytoms/JavascriptLibs.git`
 / setup your local environement / add link to demo version.
 
-### Code Examples
+ ### Code Examples
 Here is a working example of this scroller:
 Link: https://jsfiddle.net/tonytoms01/vLhuwo54/
 here credits. Project inspired by..., based on...
