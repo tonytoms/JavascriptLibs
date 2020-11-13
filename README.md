@@ -24,13 +24,12 @@
 
  ### Setup
 If you want to try it by yourself, Just pull this repo 
-from `https://github.com/tonytoms/JavascriptLibs.git`
-/ setup your local environement / add link to demo version.
+from `https://github.com/tonytoms/JavascriptLibs.git`.
 
  ### Code Examples
 Here is a working example of this scroller:
 Link: https://jsfiddle.net/tonytoms01/vLhuwo54/
-here credits. Project inspired by..., based on...
+
 
 # Contact
 Created by [Tony Toms](https://www.itstonytoms.com/) - feel free to contact me!
